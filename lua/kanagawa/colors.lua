@@ -126,7 +126,6 @@ local palette = {
     lotusTeal3 = "#5a7785",
     lotusCyan = "#d7e3d8",
 }
-
 local M = {}
 --- Generate colors table:
 --- * opts:
